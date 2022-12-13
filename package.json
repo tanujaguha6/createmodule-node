@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/bbachi/angular-nodejs-example#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "prepend": "^1.0.2",
     "replace-in-file": "^6.1.0"
   },
